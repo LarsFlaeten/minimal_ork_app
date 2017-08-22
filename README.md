@@ -1,4 +1,4 @@
-# simple_cpp_exec
+# Minimal Ork App
 Just a minimal skeleton build tree for simple OpenGL / Ork apps.
 
 Put external libraries and headers in `libraries/`.
